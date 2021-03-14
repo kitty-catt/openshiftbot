@@ -1,15 +1,15 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
-    cinch (2.3.2)
-    rack (2.0.1)
+    cinch (2.3.4)
+    rack (2.2.3)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
   cinch
   rack
 
 BUNDLED WITH
-   1.12.5
+   2.2.3
